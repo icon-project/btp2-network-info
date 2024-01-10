@@ -3,7 +3,7 @@
 - **RPC URL** : `https://ctz.solidwallet.io/api/v3`
 - **Tracker URL** : [Tracker](https://tracker.icon.community/)
 - **BTP Network Id**:
-    - BSC: 0x2
+    - BSC: 0x4
     - Ethereum : 0x3
 - **Contracts**:
 
