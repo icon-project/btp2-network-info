@@ -5,6 +5,9 @@
 - **BTP Network Id**:
     - BSC: 0x4
     - Ethereum : 0x3
+- **Start Height** : 
+    - BSC: 76042342
+    - Ethereum: 75311723
 - **Contracts**:
 
     | Contract    	| Address                                    	| Note 	|
@@ -18,6 +21,7 @@
 - **Network Id** : `0x38.bsc`
 - **RPC URL** : `https://bsc-dataseed1.binance.org/`
 - **Tracker URL** : [Tracker](https://bscscan.com/)
+- **Start Height** : 35056000
 - **Contracts**:
 
     | Contract       	| Address                                    	| Note 	|
@@ -32,6 +36,7 @@
 - **Network Id** : `0x1.eth`
 - **RPC URL** : `https://ethereum.publicnode.com`
 - **Tracker URL** : [Tracker](https://etherscan.io/)
+- **Start Height** : 
 - **Contracts**:
 
     | Contract       	| Address                                    	| Note 	|
