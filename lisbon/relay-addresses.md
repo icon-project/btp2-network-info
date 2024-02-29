@@ -10,4 +10,4 @@ BTP Lisbon Relay Addresses
 
 ### ICON-Altair
 - **lisbon**: [hxb27196259945206780632beebc8a0c298c6e766b](https://tracker.lisbon.icon.community/address/hxb27196259945206780632beebc8a0c298c6e766b)
-- **altair**: [hx34378956eb09b5884f13eb500d160e9ada61b01b](https://scan.altair.havah.io/address/hx34378956eb09b5884f13eb500d160e9ada61b01b)
+- **vega**: [hx34378956eb09b5884f13eb500d160e9ada61b01b](https://scan.vega.havah.io/address/hx34378956eb09b5884f13eb500d160e9ada61b01b)

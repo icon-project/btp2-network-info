@@ -23,19 +23,19 @@ This document provides information on the BTP networks connection to ICON on the
     | Sepolia BMV 	| cxa064081adfa7fd12b154c89605279e02d679f9f0 	|      	|
     | xCall       	| cx15a339fa60bd86225050b22ea8cd4a9d7cd8bb83 	|      	|
 
-## Havah Altair Testnet
-- **Network Id** : `0x111.icon`
-- **RPC URL** : `https://ctz.altair.havah.io/api/v3`
-- **Tracket URL** : [Tracker](https://scan.altair.havah.io/)
-- **Faucet URL**: [Faucet](https://faucet.altair.havah.io/)
-- **Start Height** : 4796520
+## Havah Vega Testnet
+- **Network Id** : `0x101.icon`
+- **RPC URL** : `https://ctz.vega.havah.io/api/v3`
+- **Tracket URL** : [Tracker](https://scan.vega.havah.io/)
+- **Faucet URL**: [Faucet](https://faucet.vega.havah.io/)
+- **Start Height** : 20225721
 - **Contracts**:
 
     | Contract    	| Address                                    	| Note 	|
     |-------------	|--------------------------------------------	|------	|
-    | BMC         	| cx60c1557a511326d16768b735c944023b514b55dc 	|      	|
-    | ICON BMV   	| cx00efa7b16d70aba51998767a54dca70bdc5e4a98 	|      	|
-    | xCall       	| cxf35c6158382096ea8cf7c54ee338ddfcaf2869a3 	|      	|
+    | BMC         	| cxbc156dbb9ce60e64d9ff02e5b95e206980b5cf5f 	|      	|
+    | ICON BMV   	| cx49093142696e16f1bdc490dc12aa0b1c83d53869 	|      	|
+    | xCall       	| cxd34a83458cb4adb49f48e411105f69ec35e3c3d5 	|      	|
 
 ## BSC Testnet
 - **Network Id** : `0x61.bsc`
