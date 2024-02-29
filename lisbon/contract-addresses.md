@@ -6,11 +6,11 @@ This document provides information on the BTP networks connection to ICON on the
 - **Tracket URL** : [Tracker](https://tracker.lisbon.icon.community/)
 - **Faucet URL**: [Faucet](https://faucet.iconosphere.io/)
 - **Start Height** : 
-    - Havah: 29565278
+    - Vega: 34771545
     - BSC: 30244905
     - Sepolia: 30602326
 - **BTP Network Id**:
-    - Havah: 0x3
+    - Vega: 0x7
     - BSC: 0x4
     - Sepolia: 0x6
 - **Contracts**:
