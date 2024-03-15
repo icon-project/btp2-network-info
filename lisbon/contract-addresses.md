@@ -51,7 +51,7 @@ This document provides information on the BTP networks connection to ICON on the
     | BMC Service    	| 0x9A39cF64707C44d013D49cB09aB50F5b5f820fb0 	|      	|
     | BMC Management 	| 0x7D93905698CF0014655AE111fA8A8933CFA0e29f 	|      	|
     | BMV Icon       	| 0x32DDeE8fE1F2D95875BDA61e8b9bf89F4C329090 	|      	|
-    | xCall          	| 0xC938B1B7C20D080Ca3B67eebBfb66a75Fb3C4995 	|      	|
+    | xCall          	| 0xD59C71E42a1Fc070e4c2c94f0eAE0840043681D0 	|      	|
 
 ## Eth2 Sepolia Testnet
 - **Network Id** : `0xaa36a7.eth2`
@@ -67,4 +67,4 @@ This document provides information on the BTP networks connection to ICON on the
     | BMC Service    	| 0xaB4fACc9d827890bf1598816bab2706E00cBed83 	|      	|
     | BMC Management 	| 0xB8e71dDE8d1A7aC5155E0c9d006FFDFfc2d3c7Eb 	|      	|
     | BMV Icon       	| 0xD97f55D75a293e702213472014901479E4f28D01 	|      	|
-    | xCall          	| 0x8E302b2fD7C10A0033e48EB0602Db3C7d6E0F506 	|      	|
+    | xCall          	| 0xB7039f15fFa33A6f44cA4913f33cE2adC0dbe71D 	|      	|
