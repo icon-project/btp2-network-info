@@ -17,8 +17,8 @@
     | BMC         	| cxee7a00755a757e3c519a0616456030e33dc9d47f 	|      	|
     | BSC BMV     	| cxdbdbac709a81c48c4ff6eb95bf151a5b6c4c5a3e 	|      	|
     | ETH BMV 	    | cxd3dd44fb957c972953e8b9dcd3a37fd45aa77459 	|      	|
-    | Havah BMV	    | cxd3dd44fb957c972953e8b9dcd3a37fd45aa77459 	|      	|
-    | xCall       	| cxef17e79f0cdd7be1a88a78e50abf72e6365dcca5  	|      	|
+    | Havah BMV	    | cxef17e79f0cdd7be1a88a78e50abf72e6365dcca5 	|      	|
+    | xCall       	| cxa07f426062a1384bdd762afa6a87d123fbc81c75  	|      	|
 
 ## BSC Mainnet
 - **Network Id** : `0x38.bsc`
