@@ -8,11 +8,11 @@ This document provides information on the BTP networks connection to ICON on the
 - **Start Height** : 
     - Vega: 34771545
     - BSC: 30244905
-    - Sepolia: 30602326
+    - Sepolia: 35923078
 - **BTP Network Id**:
     - Vega: 0x7
     - BSC: 0x4
-    - Sepolia: 0x6
+    - Sepolia: 0x8
 - **Contracts**:
 
     | Contract    	| Address                                    	| Note 	|
@@ -20,7 +20,7 @@ This document provides information on the BTP networks connection to ICON on the
     | BMC         	| cx2e230f2f91f7fe0f0b9c6fe1ce8dbba9f74f961a 	|      	|
     | Havah BMV   	| cxbc1c4a86ed97875ea6571fd51f44d3e5a453a9c1 	|      	|
     | BSC BMV     	| cx5ae1d53ff945700d4f64d2f2ceaf29fce4caab15 	|      	|
-    | Sepolia BMV 	| cxa064081adfa7fd12b154c89605279e02d679f9f0 	|      	|
+    | Sepolia BMV 	| cxdecaabce975b89d5d700af92d6f79f7e777f626d 	|      	|
     | xCall       	| cx15a339fa60bd86225050b22ea8cd4a9d7cd8bb83 	|      	|
 
 ## Havah Vega Testnet
@@ -66,5 +66,5 @@ This document provides information on the BTP networks connection to ICON on the
     | BMC            	| 0xC4EdF38698De55aCa72f35b6cEcdF11560dA8e3a 	|      	|
     | BMC Service    	| 0xaB4fACc9d827890bf1598816bab2706E00cBed83 	|      	|
     | BMC Management 	| 0xB8e71dDE8d1A7aC5155E0c9d006FFDFfc2d3c7Eb 	|      	|
-    | BMV Icon       	| 0xD97f55D75a293e702213472014901479E4f28D01 	|      	|
+    | BMV Icon       	| 0x5995709d981BFB69be84B5f063833b8E4aB40B77 	|      	|
     | xCall          	| 0xB7039f15fFa33A6f44cA4913f33cE2adC0dbe71D 	|      	|
